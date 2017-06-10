@@ -1,0 +1,9 @@
+.by-user{
+    display: none;   
+}
+span.notification-checked{
+    color:green;
+}
+span.notification-unchecked{
+    color:red;
+}

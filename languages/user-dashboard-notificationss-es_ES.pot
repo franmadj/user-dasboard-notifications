@@ -1,0 +1,170 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: BUG-EMAIL-ADDR <EMAIL@ADDRESS>\n"
+"POT-Creation-Date: yyyy-mm-dd hh:mm+0000\n"
+"PO-Revision-Date: 2016-08-08 21:46+0100\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"X-Generator: Eazy Po 0.9.5.3\n"
+
+#: ud-notications.php:61
+msgid "Select at least one role"
+msgstr ""
+
+#: ud-notications.php:62
+msgid "Select at least one user"
+msgstr ""
+
+#: ud-notications.php:63
+msgid "You must provide a text notification"
+msgstr ""
+
+#: ud-notications.php:68
+msgid "List Notifications"
+msgstr ""
+
+#: ud-notications.php:70
+msgid "Add User Dashboard Notifications"
+msgstr ""
+
+#: ud-notications.php:183
+msgid "Notification has been successfuly created"
+msgstr ""
+
+#: ud-notications.php:185
+msgid "No notificatons have been created, check"
+msgstr ""
+
+#: templates/add_ud_notifications.php:14 templates/add_ud_notifications.php:17
+#: templates/add_ud_notifications.php:78
+msgid "Create Notification by"
+msgstr ""
+
+#: templates/add_ud_notifications.php:18 templates/add_ud_notifications.php:25
+#: templates/list_ud_notifications.php:57
+#: templates/list_ud_notifications.php:117
+msgid "Role"
+msgstr ""
+
+#: templates/add_ud_notifications.php:19
+msgid "User"
+msgstr ""
+
+#: templates/add_ud_notifications.php:48
+msgid "Select one or more roles of users to be notified"
+msgstr ""
+
+#: templates/add_ud_notifications.php:52
+msgid "Users"
+msgstr ""
+
+#: templates/add_ud_notifications.php:64
+msgid "Select one or more users to be notified"
+msgstr ""
+
+#: templates/add_ud_notifications.php:69
+#: templates/list_ud_notifications.php:55
+#: templates/list_ud_notifications.php:115
+msgid "Notification"
+msgstr ""
+
+#: templates/add_ud_notifications.php:72
+msgid "Add a notification text"
+msgstr ""
+
+#: templates/add_ud_notifications.php:76
+msgid "Notification type"
+msgstr ""
+
+#: templates/add_ud_notifications.php:79
+msgid "Notification Error"
+msgstr ""
+
+#: templates/add_ud_notifications.php:80
+msgid "Notification Warning"
+msgstr ""
+
+#: templates/add_ud_notifications.php:82
+msgid "Notification Success"
+msgstr ""
+
+#: templates/add_ud_notifications.php:83
+msgid "Notification Info"
+msgstr ""
+
+#: templates/add_ud_notifications.php:98
+msgid "Add notification"
+msgstr ""
+
+#: templates/list_ud_notifications.php:4
+msgid "All"
+msgstr ""
+
+#: templates/list_ud_notifications.php:25
+msgid "Search Users"
+msgstr ""
+
+#: templates/list_ud_notifications.php:34
+#: templates/list_ud_notifications.php:127
+msgid "Select bulk action"
+msgstr ""
+
+#: templates/list_ud_notifications.php:35
+#: templates/list_ud_notifications.php:128
+msgid "Bulk Actions"
+msgstr ""
+
+#: templates/list_ud_notifications.php:36
+#: templates/list_ud_notifications.php:92
+#: templates/list_ud_notifications.php:129
+msgid "Remove"
+msgstr ""
+
+#: templates/list_ud_notifications.php:38
+#: templates/list_ud_notifications.php:131
+msgid "Apply"
+msgstr ""
+
+#: templates/list_ud_notifications.php:47
+msgid "Notifications list"
+msgstr ""
+
+#: templates/list_ud_notifications.php:53
+#: templates/list_ud_notifications.php:113
+msgid "Select All"
+msgstr ""
+
+#: templates/list_ud_notifications.php:54
+#: templates/list_ud_notifications.php:114
+msgid "Username"
+msgstr ""
+
+#: templates/list_ud_notifications.php:56
+#: templates/list_ud_notifications.php:116
+msgid "Email"
+msgstr ""
+
+#: templates/list_ud_notifications.php:58
+#: templates/list_ud_notifications.php:118
+msgid "Count"
+msgstr ""
+
+#: templates/list_ud_notifications.php:59
+#: templates/list_ud_notifications.php:119
+msgid "Checked"
+msgstr ""
+
+#: templates/list_ud_notifications.php:101
+msgid "Yes"
+msgstr ""
